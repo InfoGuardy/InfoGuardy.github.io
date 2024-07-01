@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**WORK IN PROGRESS WEBSITE**
+**⚠️ WORK IN PROGRESS WEBSITE ⚠️**
 
 **Guardy** è un'azienda all'avanguardia nel settore dell'informatica specializzata nello sviluppo, progettazione e implementazione di soluzioni software avanzate e componenti hardware dedicati alla sicurezza informatica. La nostra missione è focalizzata sulla protezione delle architetture basate su microprocessori da minacce informatiche malevoli attraverso approcci innovativi e tecnologie all'avanguardia.
 
@@ -28,4 +28,4 @@ Scopri come possiamo aiutare la tua azienda a proteggere e ottimizzare le operaz
 
 Siamo **Guardy** - Sicurezza, Innovazione, Eccellenza.
 
-**WORK IN PROGRESS WEBSITE**
+**⚠️ WORK IN PROGRESS WEBSITE ⚠️**
