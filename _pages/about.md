@@ -8,23 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Alessandro Palumbo is an Associate Professor at [CentraleSupeléc](https://www.centralesupelec.fr/) and an Associate Researcher at [IRISA Lab](https://www.irisa.fr/en), [Inria](https://www.inria.fr/en/inria-centre-rennes-university), [SUSHI Team](https://team.inria.fr/sushi/).
+Guardy S.p.A. è un'azienda all'avanguardia nel settore dell'informatica specializzata nello sviluppo, progettazione e implementazione di soluzioni software avanzate e componenti hardware dedicati alla sicurezza informatica. La nostra missione è focalizzata sulla protezione delle architetture basate su microprocessori da minacce informatiche malevoli attraverso approcci innovativi e tecnologie all'avanguardia.
 
-From April 2024 to July 2024, he will be a Visiting Researcher at the [International Computer Science Institute (ICSI)](https://www.icsi.berkeley.edu/icsi/), [University of California, Berkeley](https://www.berkeley.edu/) (research work funded by [NGI Enrichers](https://enrichers.ngi.eu/)).
+Cosa facciamo:
 
-His research focus is Hardware Security. In particular, his interests include hardware acceleration of networking functions and CPU microarchitectures, with particular emphasis on Machine Learning techniques and Probabilistic Data Structures to guarantee security and reliability in microprocessor-based systems in both FPGA and In-Memory Computing scenarios.
+Sicurezza Hardware Orientata: Siamo leader nello sviluppo di circuiti integrati nei microprocessori per rafforzare la sicurezza a livello hardware, garantendo protezione avanzata contro programmi dannosi.
+Sviluppo Software Avanzato: Progettiamo e implementiamo software applicativi ad alte prestazioni per dispositivi fissi e mobili, mirati a migliorare l'efficienza e la sicurezza delle operazioni digitali.
+Consulenza e Servizi Tecnologici: Offriamo consulenza specializzata per la gestione di piattaforme digitali, con un focus particolare su cybersecurity, machine learning e Internet of Things (IoT). I nostri servizi includono anche formazione, assistenza tecnica e gestione di progetti IT complessi.
+Internazionalizzazione e Ricerca: Collaboriamo attivamente con società straniere e istituti di ricerca per sviluppare soluzioni innovative e avanzare nella frontiera della tecnologia informatica.
+Perché sceglierci:
 
-For a couple of years, he has also been investigating Natural Language Processing and Large Language Model techniques to extract features from texts aimed at carrying out further decision-making processes based on Machine Learning computations.
+Innovazione e Qualità: Siamo impegnati nell'innovazione continua e nella consegna di soluzioni tecnologicamente avanzate che superano le aspettative dei nostri clienti.
+Esperti del Settore: Il nostro team è composto da esperti altamente qualificati nel campo dell'IT e della sicurezza informatica, pronti a rispondere alle sfide più complesse del mercato.
+Impegno verso l'Eccellenza: Ci dedicamo alla ricerca costante di eccellenza in ogni aspetto delle nostre operazioni, garantendo standard elevati di sicurezza e performance.
+Contattaci:
+Scopri come possiamo aiutare la tua azienda a proteggere e ottimizzare le operazioni digitali. Visita il nostro sito web per ulteriori informazioni sui nostri servizi e soluzioni personalizzate.
 
-He worked in SHANNON, SESAMO, 5G-PICTURE, POR FESR 2014/2020 EU projects.
-
-In 2022/2023 A.Y., he was an Assistant Researcher and a Contract Professor at the [Politecnico di Milano](https://www.polimi.it/en). There, his research activity was titled “Design of Integrated Circuits for High-Security Primitive of In-Memory Computing.”
-
-In 2021/2022 A.Y., he was a Contract Professor at the [University of Milan "Bicocca"](https://en.unimib.it/).
-
-In 2021/2022 and 2020/2021 A.Y., he was a Teaching Assistant at the [University of Rome "Tor Vergata"](https://web.uniroma2.it/en).
-There, he received a Ph.D. in Electronics Engineering in 2022 for his research work titled [“Features Analysis of Microarchitectural Attacks and Hardware Trojans in Microprocessors: Detection & Mitigation Techniques”](https://centralesupelec-my.sharepoint.com/:b:/g/personal/alessandro_palumbo_centralesupelec_fr/EUBJZAidHXZFuDHxFtq1yngBKyGQWPrEjapn2FLPVRbJxQ?e=9LeEQm).
-
-In 2019, he took a master’s degree in Electronics Engineering for Telecommunications and Multimedia at the same university, where he also received his bachelor’s degree in Electronics Engineering in 2016.
-
-From April 2018 to October 2019, he was a Researcher at [CNIT](https://www.cnit.it/en/).
+Siamo Guardy S.p.A. - Sicurezza, Innovazione, Eccellenza.
