@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bio"
+title                    : "Chi siamo"
 title_separator          : "-"
 name                     : &name "info.guardy@gmail.com"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Guardy"
+  name             : "Guardy info.guardy@gmail.com"
   avatar           : "profile.png"
   bio              : 
   email            : "info.guardy@gmail.com"
